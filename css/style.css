@@ -1,0 +1,38 @@
+body {
+    background-color: #2f4549;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    font-style: italic;
+    color: #4bb49a;
+}
+
+p {
+    font-family: 'Poiret One', cursive;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #4bb49a;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    margin: auto;
+    margin-right: 2%;
+    text-align: center;
+    display: inline-block;
+}
+
+footer {
+    margin-top: 5%;
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Comfortaa', cursive;
+    color: white;
+}
